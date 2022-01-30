@@ -1,0 +1,42 @@
+/*------ Google fonts---- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+/*------------- Custome class and styles -------- */
+.my-primay-font{
+    font-family: 'Poppins', sans-serif;
+}
+.section-gap{
+    margin: 150px 0;
+}
+/* card section  */
+.card-round{
+    border-radius: 50px;
+}
+.stricker{
+    margin: -10px;
+    background-color: red;
+    position: absolute;
+    right: 50px;
+    border-radius: 50px;
+    top: 0;
+    padding: 5px;
+}
+.offer-btn{
+    color: red;
+    position: absolute;
+    right: 50px;
+    border-radius: 50px;
+    top: 10;
+}
+.offer-body{
+    border-top: 5px solid skyblue;
+}
+li{
+    list-style: none;
+}
+
+/* footer */
+footer{
+    padding:30px 0;
+    background-color: #0B5ED7;
+}
